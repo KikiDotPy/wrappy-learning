@@ -35,9 +35,11 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   
   ### Other
   
-|prova | Selection |    bla    | bla2 |
+|Tech | In Progress |    Beginner    | Confident |
 | -------- | --------- | ------ | -------- |
-| prova | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
+| Git | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
+| GitHub | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
+|  | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
 
 ## Miscelanous
 
