@@ -6,21 +6,21 @@ It's a way to keep track, organise, and share my learning.
 # Coding Skills
   ## Front-End Skills
   
-Function | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | <li>- [ ]</li> |  <li>- [x]</li> | <li>- [ ]</li>
+|prova | Selection |    bla    | bla2 |
+| -------- | --------- | ------ | -------- |
+| prova | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
   
   ## Backend Skills
   
-Function | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+|prova | Selection |    bla    | bla2 |
+| -------- | --------- | ------ | -------- |
+| prova | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
   
   ## Database Skills
   
-Function | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+|prova | Selection |    bla    | bla2 |
+| -------- | --------- | ------ | -------- |
+| prova | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
 
 # Computer Science Concept
 
