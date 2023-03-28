@@ -5,7 +5,7 @@ It's a way to keep track, organise, and share my neverending journey.
 You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev) or connect with me on [LinkedIn page](https://www.linkedin.com/in/chiara-disano/) or [Twitter](https://twitter.com/KikiDotPy)!
 
 <details>
-<summary>Table of content</summary>
+<summary>**Table of content**</summary>
 
 ## Table of Content
 - [Courses Taken]() ????
@@ -19,8 +19,8 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 
 ---
 
-
-## Coding Skills
+<details>
+  <summary>## Coding Skills</summary>
   ### Front-End Skills
   
 |prova | Selection |    bla    | bla2 |
@@ -43,7 +43,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 
 ## Miscelanous
 
-
+</details>
 
 
 
