@@ -8,7 +8,7 @@ It's a way to keep track, organise, and share my learning.
   
 Function | MySQL / MariaDB | PostgreSQL | SQLite
 :------------ | :-------------| :-------------| :-------------
-substr | <li>[ ] |  [ x ] | [ ]</li>
+substr | <li>[ ]</li> |  [ x ] | [ ]</li>
   
   ## Backend Skills
   
