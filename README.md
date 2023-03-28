@@ -39,7 +39,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 | Git | <li>- -- </li> | <li>- -- </li> | <li>- [x] </li>  |
 | GitHub | <li>- [x] </li> | <li>- [x] </li> | <li>- [x] </li>  |
 
-|               Skill              | 1<br>In Progress | 2<br>Occasional Use    | 3<br>Regular use |
+|               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**Git**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
 
