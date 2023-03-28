@@ -32,4 +32,4 @@ substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
 
 | Selection |    bla    |
 | --------- | ------ |
-| <li>- [x] </li> | <li>- [] </li> |
+| <li>- [x] </li> | <li>- [x] </li> |
