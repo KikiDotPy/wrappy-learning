@@ -36,7 +36,4 @@ It's a way to keep track, organise, and share my learning.
 
 
 
-| demo                                              | demo |
-| ------------------------------------------------- | ---- |
-| <input type="checkbox" disabled checked /> works  |      |
-| <input type="checkbox" disabled /> works here too |      |
+🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
