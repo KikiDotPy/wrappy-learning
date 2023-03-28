@@ -8,7 +8,7 @@ It's a way to keep track, organise, and share my learning.
   
 Function | MySQL / MariaDB | PostgreSQL | SQLite
 :------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+substr | ⬜ |  :white_check_mark: | ⬜
   
   ## Backend Skills
   
