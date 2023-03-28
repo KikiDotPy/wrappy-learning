@@ -34,10 +34,10 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   
   ### Other
   
-|Tech | In Progress |    Beginner    | Confident |
+|Tech | In Progress |    Occasional    | Regular Use |
 | -------- | --------- | ------ | -------- |
-| Git | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
-| GitHub | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
+| Git | <li>- -- </li> | <li>- -- </li> | <li>- [x] </li>  |
+| GitHub | <li>- [x] </li> | <li>- [x] </li> | <li>- [x] </li>  |
 |  | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
 
 ## Miscelanous
