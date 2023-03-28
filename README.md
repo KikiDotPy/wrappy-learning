@@ -30,6 +30,6 @@ substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
 
 
 
-| Selection |    bla    |
-| --------- | ------ |
-| <li>- [x] </li> | <li>- [x] </li> |
+| Selection |    bla    | bla2 |
+| --------- | ------ | -------- |
+| <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
