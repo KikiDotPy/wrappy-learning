@@ -33,3 +33,10 @@ It's a way to keep track, organise, and share my learning.
 |prova | Selection |    bla    | bla2 |
 | -------- | --------- | ------ | -------- |
 | prova | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
+
+
+
+| demo                                              | demo |
+| ------------------------------------------------- | ---- |
+| <input type="checkbox" disabled checked /> works  |      |
+| <input type="checkbox" disabled /> works here too |      |
