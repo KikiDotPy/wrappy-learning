@@ -22,26 +22,22 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 ## Coding Skills
   ### Front-End Skills
   
-|prova | Selection |    bla    | bla2 |
-| -------- | --------- | ------ | -------- |
-| prova | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
+
+  |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
+  |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+  |**TODO**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
   
   ### Back-End Skills
-  
-|prova | Selection |    bla    | bla2 |
-| -------- | --------- | ------ | -------- |
-| prova | <li>- [x] </li> | <li>- [x] </li> | <li>- [ ] </li>  |
+
+  |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
+  |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+  |**TODO**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
   
   ### Other
-  
-|Tech | In Progress |    Occasional    | Regular Use |
-| -------- | --------- | ------ | -------- |
-| Git | <li>- -- </li> | <li>- -- </li> | <li>- [x] </li>  |
-| GitHub | <li>- [x] </li> | <li>- [x] </li> | <li>- [x] </li>  |
 
-|               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**Git**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
+  |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
+  |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+  |**Git**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
 
 ## Miscelanous
 
