@@ -10,7 +10,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 ## Table of Content
 - [Front-End Skills](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#front-end-skills)
 - [Back-End Skills](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#back-end-skills)
-- [Miscelanous](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#miscelanous)
+- [Miscellaneus](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#miscellaneus)
 - [Courses and Resources](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#courses-and-resources)
 - [Credits](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#credits)
 - [License](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#license)
@@ -28,7 +28,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**HTML**                        | <li>- [x] </li>     |                          | <li>- [x] </li>    |
   |**CSS**                         |                     |                          | <li>- [x] </li>    |
   |**SASS**                        |                     | <li>- [x] </li>          |                    |
-  |**JavaScript**                  |                     |                          | <li>- [x] </li>    |
+  |**JavaScript ES6**              |                     |                          | <li>- [x] </li>    |
   |**TypeScript**                  | <li>- [x] </li>     |                          | <li>- [x] </li>    |
   |**React**                       | <li>- [x] </li>     |                          | <li>- [x] </li>    |
   
@@ -39,14 +39,15 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**Java**                              |                   | <li>- [x] </li>        |                  |
   |**Kotlin**                            |                   | <li>- [x] </li>        |                  |
   |**Python**                            |                   | <li>- [x] </li>        |                  |
+  |**Node.js**                           |                   |                        | <li>- [x] </li>  |
   
   ### Other
 
   |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
   |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-  |**Git**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
+  |**Git**                         | <li>- [x] </li>     | <li>- [x] </li>        | <li>- [x] </li>  |
 
-## Miscelanous
+## Miscellaneus
 
 
 ## Courses and Resources
