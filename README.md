@@ -25,7 +25,8 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 
   |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
   |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-  |**TODO**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
+  |HTML                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
+  |CSS                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
   
   ### Back-End Skills
 
