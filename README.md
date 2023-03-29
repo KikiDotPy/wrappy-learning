@@ -41,15 +41,12 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 
 ## Miscelanous
 
-</details>
 
 ## Courses and Resources
 | Course | Tutor / School | Date (started) | Status |  
 |--------|----------------|:----------------:|:--------:|
 |[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|April 2019|🔳🔳⬜️⬜️⬜ |
 
-🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
-◾◾◾◽◽
 
 ## Credits
 Big thanks to [Syknapse](https://github.com/Syknapse) for the idea of this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [Ramón Huidobro](https://twitter.com/hola_soy_milk) for inspiring me to share my learning journey AND for his awesome courses to help people learn to code more confidently!
