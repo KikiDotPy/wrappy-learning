@@ -8,12 +8,12 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 <summary>Table of content</summary>
 
 ## Table of Content
-- [Front-End Skills]()
-- [Back-End Skills]()
-- [Miscelanous]()
-- [Courses and Resources]()
-- [Credits]()
-- [License]()
+- [Front-End Skills](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#front-end-skills)
+- [Back-End Skills](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#back-end-skills)
+- [Miscelanous](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#miscelanous)
+- [Courses and Resources](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#courses-and-resources)
+- [Credits](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#credits)
+- [License](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#license)
 
 </details>
 
