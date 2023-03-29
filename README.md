@@ -25,21 +25,20 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 
   |               Skill              | <br>Studying | <br>Occasional Use    | <br>Regular use |
   |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-  |HTML                        | <li>- [x] </li>     |                          | <li>- [x] </li>    |
-  |CSS                         |                     |                          | <li>- [x] </li>    |
-  |SASS                        |                     | <li>- [x] </li>          |                    |
-  |JavaScript                  |                     |                          | <li>- [x] </li>    |
-  |TypeScript                  | <li>- [x] </li>     |                          | <li>- [x] </li>    |
-  |React                       | <li>- [x] </li>     |                          | <li>- [x] </li>    |
-  |Python                      |                     | <li>- [x] </li>          |                    |
-  |Java                        |                     | <li>- [x] </li>          |                    |
-  |Kotlin                      |                     | <li>- [x] </li>          |                    |
+  |**HTML**                        | <li>- [x] </li>     |                          | <li>- [x] </li>    |
+  |**CSS**                         |                     |                          | <li>- [x] </li>    |
+  |**SASS**                        |                     | <li>- [x] </li>          |                    |
+  |**JavaScript**                  |                     |                          | <li>- [x] </li>    |
+  |**TypeScript**                  | <li>- [x] </li>     |                          | <li>- [x] </li>    |
+  |**React**                       | <li>- [x] </li>     |                          | <li>- [x] </li>    |
   
   ### Back-End Skills
 
   |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
   |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-  |**TODO**                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
+  |**Java**                              |                   | <li>- [x] </li>        |                  |
+  |**Kotlin**                            |                   | <li>- [x] </li>        |                  |
+  |**Python**                            |                   | <li>- [x] </li>        |                  |
   
   ### Other
 
