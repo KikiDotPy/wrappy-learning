@@ -44,7 +44,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 
 ## Courses and Resources
 | Course | Tutor / School | Status |  
-|--------|----------------|:----------------:|:--------:|
+|--------|----------------|:--------:|
 |[Harvard CS50](https://cs50.harvard.edu/x/2023/)| David J. Malan | 🔳🔳🔳🔳🔳 |
 |[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|🔳🔳⬜️⬜️⬜ |
 
