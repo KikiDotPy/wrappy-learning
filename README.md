@@ -45,7 +45,18 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 
   |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
   |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-  |**Git**                         | <li>- [x] </li>     | <li>- [x] </li>        | <li>- [x] </li>  |
+  |**Git**                           |                   |                        | <li>- [x] </li>  |
+  |**Accessibility**                 | <li>- [x] </li>   |                        | <li>- [x] </li>  |
+  |**Command Line**                  |                   |                        | <li>- [x] </li>  |
+  |**Storybook**                     |                   | <li>- [x] </li>        |                  |
+  |**Prettier**                      |                   |                        | <li>- [x] </li>  |
+  |**ESLint**                        |                   |                        | <li>- [x] </li>  |  
+  |**NPM**                           |                   |                        | <li>- [x] </li>  |
+  |**Yarn**                          |                   |                        | <li>- [x] </li>  | 
+  |**Agile**                         |                   |                        | <li>- [x] </li>  |
+  |**Jira**                          |                   |                        | <li>- [x] </li>  |
+  |**Bitbucket**                     |                   |                        | <li>- [x] </li>  |
+  |**Jenkins**                       |                   |                        | <li>- [x] </li>  |
 
 ## Miscellaneus
 
