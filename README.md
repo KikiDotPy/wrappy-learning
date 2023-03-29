@@ -40,7 +40,16 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**Kotlin**                            |                   | <li>- [x] </li>        |                  |
   |**Python**                            |                   | <li>- [x] </li>        |                  |
   |**Node.js**                           |                   |                        | <li>- [x] </li>  |
-  
+  |**MongoDB**                           |                   |                        | <li>- [x] </li>  |
+  |**SQLite**                            |                   | <li>- [x] </li>        |                  |
+  |**Apache Solr**                       |                   |                        | <li>- [x] </li>  |
+  |**NPM**                               |                   |                        | <li>- [x] </li>  |
+  |**Postman**                           |                   | <li>- [x] </li>        |                  |
+  |**API**                               |                   |                        | <li>- [x] </li>  |
+  |**AWS**                               | <li>- [x] </li>   | <li>- [x] </li>        |                  |  
+  |**SQL**                               |                   | <li>- [x] </li>        |                  |
+  |**C**                                 |                   | <li>- [x] </li>        |                  |
+    
   ### Other
 
   |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
@@ -51,13 +60,13 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**Storybook**                     |                   | <li>- [x] </li>        |                  |
   |**Prettier**                      |                   |                        | <li>- [x] </li>  |
   |**ESLint**                        |                   |                        | <li>- [x] </li>  |  
-  |**NPM**                           |                   |                        | <li>- [x] </li>  |
   |**Yarn**                          |                   |                        | <li>- [x] </li>  | 
   |**Agile**                         |                   |                        | <li>- [x] </li>  |
   |**Jira**                          |                   |                        | <li>- [x] </li>  |
   |**Bitbucket**                     |                   |                        | <li>- [x] </li>  |
   |**Jenkins**                       |                   |                        | <li>- [x] </li>  |
-
+  |**Hybris**                        |                   |  <li>- [x] </li>       |                  |  
+ 
 ## Miscellaneus
 
 
