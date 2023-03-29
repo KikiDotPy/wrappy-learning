@@ -23,9 +23,9 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   ### Front-End Skills
   
 
-  |               Skill              | <br>In Progress | <br>Occasional Use    | <br>Regular use |
+  |               Skill              | <br>Studying | <br>Occasional Use    | <br>Regular use |
   |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-  |HTML                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
+  |HTML                        |                     |                          | <li>- [x] </li>    |
   |CSS                         | <li>- [x] </li>     | <li>- [x] </li>          | <li>- [x] </li>    |
   
   ### Back-End Skills
