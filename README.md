@@ -10,7 +10,6 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 ## Table of Content
 - [Front-End Skills](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#front-end-skills)
 - [Back-End Skills](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#back-end-skills)
-- [Miscellaneus](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#miscellaneus)
 - [Courses and Resources](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#courses-and-resources)
 - [Credits](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#credits)
 - [License](https://github.com/KikiDotPy/wrappy-learning/blob/main/README.md#license)
@@ -66,21 +65,19 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**Bitbucket**                     |                   |                        | <li>- [x] </li>  |
   |**Jenkins**                       |                   |                        | <li>- [x] </li>  |
   |**Hybris**                        |                   |  <li>- [x] </li>       |                  |  
- 
-## Miscellaneus
-
 
 ## Courses and Resources
 | Course | Tutor / School | Status |  
 |--------|----------------|:--------:|
 |[Harvard CS50](https://cs50.harvard.edu/x/2023/)| David J. Malan | 🔳🔳🔳🔳🔳 |
-|[]()| D | 🔳🔳🔳🔳🔳 |
-|[]()| D | 🔳🔳🔳🔳🔳 |
-|[]()| D | 🔳🔳🔳🔳🔳 |
-|[]()| D | 🔳🔳🔳🔳🔳 |
+|[100Dev](https://leonnoel.com/100devs/)| Leon Noel | 🔳🔳🔳🔳🔳 |
+|[JavaScript](https://www.classcentral.com/cohorts/js-bootcamp-spring-2022)| Ramón Huidobro | 🔳🔳🔳🔳🔳 |
+|[The Joy of React](https://www.joyofreact.com/)| Josh W Comeau | ⬜️⬜️⬜️⬜️⬜ |
+|[CSS for JavaScript Developer](https://css-for-js.dev/)| Josh W Comeau | 🔳🔳⬜⬜⬜ |
+|[Accessibility UsableNet]()| UsableNet | 🔳🔳🔳🔳🔳 |
+|[Testing Accessibility](https://testingaccessibility.com/)| Marcy Sutton | ⬜️⬜️⬜️⬜️⬜ |
+|[AWS Cloud Practitioner Essentials](https://www.aws.training/SessionSearch?pageNumber=1&courseId=17675)| Amazon | ⬜️⬜️⬜️⬜️⬜ |
 |[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|⬜️⬜️⬜️⬜️⬜ |
-
-
 
 ## Credits
 Big thanks to [Syknapse](https://github.com/Syknapse) for the idea of this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [Ramón Huidobro](https://twitter.com/hola_soy_milk) for inspiring me to share my learning journey AND for his awesome courses to help people learn to code more confidently!
