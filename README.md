@@ -8,10 +8,10 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 <summary>Table of content</summary>
 
 ## Table of Content
-- [Courses Taken]() ????
 - [Front-End Skills]()
 - [Back-End Skills]()
 - [Miscelanous]()
+- [Courses and Resources]()
 - [Credits]()
 - [License]()
 
