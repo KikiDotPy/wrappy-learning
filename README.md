@@ -46,7 +46,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
 ## Courses and Resources
 | Course | Tutor / School | Date (started) | Status |  
 |--------|----------------|:----------------:|:--------:|
-|[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|April 2019|◾◾◾◽◽ |
+|[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|April 2019|🔳🔳⬜️⬜️⬜ |
 
 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
 ◾◾◾◽◽
