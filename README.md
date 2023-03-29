@@ -64,8 +64,9 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**Jira**                          |                   |                        | <li>- [x] </li>  |
   |**Bitbucket**                     |                   |                        | <li>- [x] </li>  |
   |**Jenkins**                       |                   |                        | <li>- [x] </li>  |
-  |**Hybris**                        |                   |  <li>- [x] </li>       |                  |  
-
+  |**Hybris**                        |                   |  <li>- [x] </li>       |                  |
+  |**AQA**                           |                   |                        | <li>- [x] </li>  |
+ 
 ## Courses and Resources
 | Course | Tutor / School | Status |  
 |--------|----------------|:--------:|
