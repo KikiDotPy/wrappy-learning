@@ -30,6 +30,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**JavaScript ES6**              |                     |                          | <li>- [x] </li>    |
   |**TypeScript**                  | <li>- [x] </li>     |                          | <li>- [x] </li>    |
   |**React**                       | <li>- [x] </li>     |                          | <li>- [x] </li>    |
+  |**Htmx**                        | <li>- [x] </li>     |                          |                    |
   
   ### Back-End Skills
 
@@ -38,6 +39,7 @@ You can check out my blog at [KikiDotPy.hashnode](https://kikidotpy.hashnode.dev
   |**Java**                              |                   | <li>- [x] </li>        |                  |
   |**Kotlin**                            |                   | <li>- [x] </li>        |                  |
   |**Python**                            |                   | <li>- [x] </li>        |                  |
+  |**Deno**                              | <li>- [x] </li>   |                        |                  |
   |**Node.js**                           |                   |                        | <li>- [x] </li>  |
   |**MongoDB**                           |                   |                        | <li>- [x] </li>  |
   |**SQLite**                            |                   | <li>- [x] </li>        |                  |
